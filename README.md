@@ -1,2 +1,2 @@
-# malpedia_parser
+# Malpedia Parser
 Parses the publicly available repository of malpedia
